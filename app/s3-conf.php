@@ -1,1 +1,0 @@
-<?php $accessKey=''; $secretKey=''; $region='us-east-1'; $bucket='pages.comunidadecloud.com'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>

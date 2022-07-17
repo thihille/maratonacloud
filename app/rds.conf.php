@@ -1,1 +1,0 @@
-<?php $RDS_URL=''; $RDS_DB='banco02'; $RDS_user='admin'; $RDS_pwd='123456789'; $AFF_NUM='0'; ?>
